@@ -62,7 +62,7 @@ alias cat='/bin/batcat --paging=never'
 alias catn='cat'
 alias catnl='batcat'
 alias matrix='cmatrix -C white'
-alias nf='neofetch --source /home/kali/cn --ascii_colour blue'
+alias nf='neofetch --source ~/.config/cn --ascii_colour blue'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
